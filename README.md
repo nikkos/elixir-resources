@@ -12,25 +12,18 @@
 
 ## Video Tutorials
 
-[LearnElixirTv](https://www.learnelixir.tv/episodes)  | Commercial
-
-[LearnPhoenixTv](www.learnphoenix.tv) | Commercial
-
-[Elixir Sips](http://elixirsips.com/) | Commercial
-
-[Take of with Elixir](https://bigmachine.io/products/take-off-with-elixir/) | Commercial
-
-[The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial) | Commercial
+- [LearnElixirTv](https://www.learnelixir.tv/episodes)  | Commercial
+- [LearnPhoenixTv](www.learnphoenix.tv) | Commercial
+- [Elixir Sips](http://elixirsips.com/) | Commercial
+- [Take of with Elixir](https://bigmachine.io/products/take-off-with-elixir/) | Commercial
+- [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial) | Commercial
 
 ## Text Tutorials
 
-[Scaffolding a Phoenix Project](https://www.rymai.me/2015/10/22/scaffolding-a-phoenix-project/) | 
-
-[Pushing model changes to a phoenix channel](http://learningelixir.joekain.com/pushing-model-changes-to-a-phoenix-channel/) 
-
-[Create a Phoenix Blog](https://monterail.com/blog/2015/phoenix-blog) 
-
-
+- [Scaffolding a Phoenix Project](https://www.rymai.me/2015/10/22/scaffolding-a-phoenix-project/) 
+- [Pushing model changes to a phoenix channel](http://learningelixir.joekain.com/pushing-model-changes-to-a-phoenix-channel/) 
+- [Create a Phoenix Blog](https://monterail.com/blog/2015/phoenix-blog) 
+- [Internationalization of Elixir applications with gettext and transifex](http://tech.footballaddicts.com/blog/internationalization-of-elixir-applications-with-gettext-and-transifex)
 
 
 
@@ -53,17 +46,15 @@
 
 # Exercises
 
-http://exercism.io/languages/elixir/about
-
-http://www.codewars.com/?language=elixir
+- http://exercism.io/languages/elixir/about
+- http://www.codewars.com/?language=elixir
 
 
 
 ## General
 
-[Start Learning Elixir](https://startlearningelixir.com/) |
-
-[Awesome Elixir](https://github.com/h4cc/awesome-elixir) | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things.
+- [Start Learning Elixir](https://startlearningelixir.com/) |
+- [Awesome Elixir](https://github.com/h4cc/awesome-elixir) | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things.
 
 
 
