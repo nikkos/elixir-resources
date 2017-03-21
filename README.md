@@ -34,6 +34,7 @@
 - [10 Killer Elixir tips](https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be#.ruk3p5uxu) | [2](https://medium.com/blackode/10-killer-elixir-tips-2-c5f87f8a70c8#.jf3ln7ssj) | [3](https://medium.com/blackode/10-killer-elixir-tips-3-5c196eaec376#.m5t9h91ob) 
 - [Building a web framework from scratch in Elixir](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir) | Learn about Plugs
 - [Solving a sudoku](https://medium.com/@littleowllabs/solving-sudoku-with-elixir-d36f40232499#.5msof789a) | [Part 2](https://medium.com/@benng/solve-your-sudoku-puzzles-with-elixir-part-2-a1f5c520a522#.7f2n6q6cu) | [Part 3](https://medium.com/@benng/solve-your-sudoku-puzzles-with-elixir-part-3-afe7815690b0#.72g4gty9d) 
+- [State of the art in deploying Phoenix applications](https://hackernoon.com/state-of-the-art-in-deploying-elixir-phoenix-applications-fe72a4563cd8#.gzzympgw9)
 
 
 
