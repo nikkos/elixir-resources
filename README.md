@@ -35,6 +35,10 @@
 - [Building a web framework from scratch in Elixir](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir) | Learn about Plugs
 - [Solving a sudoku](https://medium.com/@littleowllabs/solving-sudoku-with-elixir-d36f40232499#.5msof789a) | [Part 2](https://medium.com/@benng/solve-your-sudoku-puzzles-with-elixir-part-2-a1f5c520a522#.7f2n6q6cu) | [Part 3](https://medium.com/@benng/solve-your-sudoku-puzzles-with-elixir-part-3-afe7815690b0#.72g4gty9d) 
 - [State of the art in deploying Phoenix applications](https://hackernoon.com/state-of-the-art-in-deploying-elixir-phoenix-applications-fe72a4563cd8#.gzzympgw9)
+- [Writing API wrappers with Elixir](https://shane.logsdon.io/posts/writing-api-wrappers-with-elixir/)
+- [Building a command line web scraper in Elixir](http://softwarebysteve.com/building-a-command-line-web-scraper-in-elixir.html)
+- [Setting up a Phoenix application with webpack and bootstrap 4](https://medium.com/@awestbro/setting-up-a-phoenix-application-with-webpack-2-and-bootstrap-4-9e02d3c0834b#.3zc3ulgje)
+- [Alias your phoenix mic commands](https://sergiotapia.me/alias-your-phoenix-mix-commands-for-some-nice-developer-ux-4a02b2bf3474#.2trf1de5d) 
 
 
 
