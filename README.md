@@ -40,7 +40,6 @@
 - [Setting up a Phoenix application with webpack and bootstrap 4](https://medium.com/@awestbro/setting-up-a-phoenix-application-with-webpack-2-and-bootstrap-4-9e02d3c0834b#.3zc3ulgje)
 - [Alias your phoenix mix commands](https://sergiotapia.me/alias-your-phoenix-mix-commands-for-some-nice-developer-ux-4a02b2bf3474#.2trf1de5d) 
 - [Working keyword lists and maps](http://culttt.com/2016/04/11/working-keyword-lists-maps-elixir/)  
-- ​
 
 
 
