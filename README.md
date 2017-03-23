@@ -44,7 +44,9 @@
 - [Scrubbing GET Params With Phoenix](http://nicolas-bettenburg.com/articles/scrubbing-get-params-with-phoenix/)
 - [Building a blog with Phoenix](http://blog.distortedthinking.agency/articles/building-a-blog-with-phoenix/) 
 - [Dealing with Legacy databases](https://cafeinacode.com/dealing-with-legacy-databases-in-ecto-47489ee44c4#.d7de5xqw4)
-- [Building A Simple Stream Media App With Elixir Phoenix Framework](http://elixirdose.com/post/building-a-simple-stream-media-app) 
+- [Building A Simple Stream Media App With Elixir Phoenix Framework](http://elixirdose.com/post/building-a-simple-stream-media-app)
+- [Titled URL Slugs in Phoenix](https://hashrocket.com/blog/posts/titled-url-slugs-in-phoenix?utm_content=buffer4c50d&utm_medium=social&utm_source=elixirweekly.com&utm_campaign=buffer) 
+- [Subdomains With Phoenix](http://blog.gazler.com/blog/2015/07/18/subdomains-with-phoenix/)
 
 
 
