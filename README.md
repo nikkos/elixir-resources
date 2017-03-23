@@ -6,9 +6,9 @@
 
 [Elixir Forum](https://elixirforum.com/)  | Forum
 
-[Elixir on Slack](https://elixir-slackin.herokuapp.com/) | 
+[Elixir on Slack](https://elixir-slackin.herokuapp.com/) 
 
-[Phoenix](http://www.phoenixframework.org/) | 
+[Phoenix](http://www.phoenixframework.org/) 
 
 ## Video Tutorials
 
@@ -41,15 +41,19 @@
 - [Alias your phoenix mix commands](https://sergiotapia.me/alias-your-phoenix-mix-commands-for-some-nice-developer-ux-4a02b2bf3474#.2trf1de5d) 
 - [Working keyword lists and maps](http://culttt.com/2016/04/11/working-keyword-lists-maps-elixir/) 
 - [Setting up a Phoenix application with webpack 2 and bootstrap 4](https://medium.com/@awestbro/setting-up-a-phoenix-application-with-webpack-2-and-bootstrap-4-9e02d3c0834b#.icfetkyl0)
+- [Scrubbing GET Params With Phoenix](http://nicolas-bettenburg.com/articles/scrubbing-get-params-with-phoenix/)
+- [Building a blog with Phoenix](http://blog.distortedthinking.agency/articles/building-a-blog-with-phoenix/) 
+- [Dealing with Legacy databases](https://cafeinacode.com/dealing-with-legacy-databases-in-ecto-47489ee44c4#.d7de5xqw4)
+- [Building A Simple Stream Media App With Elixir Phoenix Framework](http://elixirdose.com/post/building-a-simple-stream-media-app) 
 
 
 
 ## Books
 
-- [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix) | 
+- [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix) 
 - [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir) 
 - [Functional web development with Elixir, OTP and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) | Coming Soon
-- [The little Elixir and OTP Guide](https://www.manning.com/books/the-little-elixir-and-otp-guidebook) |
+- [The little Elixir and OTP Guide](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
 - [Elixir in Action](https://www.manning.com/books/elixir-in-action) 
 - http://shop.oreilly.com/product/0636920024149.do
 - [Introducing Elixir](https://startlearningelixir.com/r/introducing-elixir) 
@@ -57,7 +61,7 @@
 - [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook) 
 
 - [Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3)  | The classic book from Dave Thomas
-- [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir) |
+- [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir)
 
 
 
@@ -70,7 +74,7 @@
 
 ## General
 
-- [Start Learning Elixir](https://startlearningelixir.com/) |
+- [Start Learning Elixir](https://startlearningelixir.com/) 
 - [Awesome Elixir](https://github.com/h4cc/awesome-elixir) | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things.
 
 
