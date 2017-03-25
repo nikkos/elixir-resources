@@ -49,7 +49,7 @@
 - [Passwordless Authentication in Phoenix](https://dennisreimann.de/articles/phoenix-passwordless-authentication-magic-link.html)
 - [Using Ecto.Multi To Group Database Operations](http://geoffreylessel.com/2017/using-ecto-multi-to-group-database-operations/)
 - [Elixir/Phoenix — Build a simple chat room](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.jw2i712zj) | With Coherence, Channels and Presence
-- [][Elixir/Phoenix deployments using Distillery][Elixir/Phoenix deployments using Distillery](http://crypt.codemancers.com/posts/2016-10-06-elixir-phoenix-distillery/) 
+- [Elixir/Phoenix deployments using Distillery](http://crypt.codemancers.com/posts/2016-10-06-elixir-phoenix-distillery/)
 - [How to Capture All Errors Returned by a Function Call in Elixir](http://semaphoreci.com/blog/2016/11/24/how-to-capture-all-errors-generated-by-a-function-call-in-elixir.html)
 - [Routing securely with Phoenix framework](https://kronicdeth.github.io/routing-securely-with-phoenix-framework/#/) | Presentation 
 
