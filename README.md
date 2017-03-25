@@ -37,7 +37,6 @@
 - [State of the art in deploying Phoenix applications](https://hackernoon.com/state-of-the-art-in-deploying-elixir-phoenix-applications-fe72a4563cd8#.gzzympgw9)
 - [Writing API wrappers with Elixir](https://shane.logsdon.io/posts/writing-api-wrappers-with-elixir/)
 - [Building a command line web scraper in Elixir](http://softwarebysteve.com/building-a-command-line-web-scraper-in-elixir.html)
-- [Setting up a Phoenix application with webpack and bootstrap 4](https://medium.com/@awestbro/setting-up-a-phoenix-application-with-webpack-2-and-bootstrap-4-9e02d3c0834b#.3zc3ulgje)
 - [Alias your phoenix mix commands](https://sergiotapia.me/alias-your-phoenix-mix-commands-for-some-nice-developer-ux-4a02b2bf3474#.2trf1de5d) 
 - [Working keyword lists and maps](http://culttt.com/2016/04/11/working-keyword-lists-maps-elixir/) 
 - [Setting up a Phoenix application with webpack 2 and bootstrap 4](https://medium.com/@awestbro/setting-up-a-phoenix-application-with-webpack-2-and-bootstrap-4-9e02d3c0834b#.icfetkyl0)
@@ -47,6 +46,12 @@
 - [Building A Simple Stream Media App With Elixir Phoenix Framework](http://elixirdose.com/post/building-a-simple-stream-media-app)
 - [Titled URL Slugs in Phoenix](https://hashrocket.com/blog/posts/titled-url-slugs-in-phoenix?utm_content=buffer4c50d&utm_medium=social&utm_source=elixirweekly.com&utm_campaign=buffer) 
 - [Subdomains With Phoenix](http://blog.gazler.com/blog/2015/07/18/subdomains-with-phoenix/)
+- [Passwordless Authentication in Phoenix](https://dennisreimann.de/articles/phoenix-passwordless-authentication-magic-link.html)
+- [Using Ecto.Multi To Group Database Operations](http://geoffreylessel.com/2017/using-ecto-multi-to-group-database-operations/)
+- [Elixir/Phoenix — Build a simple chat room](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.jw2i712zj) | With Coherence, Channels and Presence
+- [][Elixir/Phoenix deployments using Distillery][Elixir/Phoenix deployments using Distillery](http://crypt.codemancers.com/posts/2016-10-06-elixir-phoenix-distillery/) 
+- [How to Capture All Errors Returned by a Function Call in Elixir](http://semaphoreci.com/blog/2016/11/24/how-to-capture-all-errors-generated-by-a-function-call-in-elixir.html)
+- [Routing securely with Phoenix framework](https://kronicdeth.github.io/routing-securely-with-phoenix-framework/#/) | Presentation 
 
 
 
