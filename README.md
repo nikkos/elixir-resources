@@ -17,6 +17,9 @@
 - [Elixir Sips](http://elixirsips.com/) | Commercial
 - [Take of with Elixir](https://bigmachine.io/products/take-off-with-elixir/) | Commercial
 - [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial) | Commercial
+- [Implementing a Naive Enum for Lists in Elixir](https://www.youtube.com/watch?v=WORDnCviUu0) | [Part 2](https://www.youtube.com/watch?v=oboH_0uJyY4)
+- [User Authentication with Coherence for the Phoenix Framework in Elixir](https://www.youtube.com/watch?v=4eqTR10F9Uo)
+- ​
 
 ## Text Tutorials
 
