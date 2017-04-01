@@ -55,6 +55,7 @@
 - [Elixir/Phoenix deployments using Distillery](http://crypt.codemancers.com/posts/2016-10-06-elixir-phoenix-distillery/)
 - [How to Capture All Errors Returned by a Function Call in Elixir](http://semaphoreci.com/blog/2016/11/24/how-to-capture-all-errors-generated-by-a-function-call-in-elixir.html)
 - [Routing securely with Phoenix framework](https://kronicdeth.github.io/routing-securely-with-phoenix-framework/#/) | Presentation 
+- [Ecto Custom Types, a practical case with enumerize (Rails gem)](https://medium.com/acutario/ecto-custom-types-a-practical-case-with-enumerize-rails-gem-b5496c2912ac) 
 
 
 
