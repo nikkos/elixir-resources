@@ -12,6 +12,9 @@
 
 ## Video Tutorials
 
+- [Developing with Elixir](https://pragmaticstudio.com/elixir) | The new Pragmatic studio course, coming soon
+
+
 - [LearnElixirTv](https://www.learnelixir.tv/episodes)  | Commercial
 - [LearnPhoenixTv](www.learnphoenix.tv) | Commercial
 - [Elixir Sips](http://elixirsips.com/) | Commercial
