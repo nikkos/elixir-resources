@@ -23,6 +23,7 @@
 - [Implementing a Naive Enum for Lists in Elixir](https://www.youtube.com/watch?v=WORDnCviUu0) | [Part 2](https://www.youtube.com/watch?v=oboH_0uJyY4)
 - [User Authentication with Coherence for the Phoenix Framework in Elixir](https://www.youtube.com/watch?v=4eqTR10F9Uo)
 - [Per-user workers with custom queue processing using GenServer and Supervisor](https://www.youtube.com/watch?v=19JakddwsV8)
+- [Using Elixir's GenStage and Flow to build product recommendations](https://10consulting.com/2017/01/20/building-product-recommendations-using-elixir-gen-stage-flow/)
 
 ## Text Tutorials
 
