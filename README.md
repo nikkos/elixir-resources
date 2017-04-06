@@ -60,6 +60,8 @@
 - [Routing securely with Phoenix framework](https://kronicdeth.github.io/routing-securely-with-phoenix-framework/#/) | Presentation 
 - [Ecto Custom Types, a practical case with enumerize (Rails gem)](https://medium.com/acutario/ecto-custom-types-a-practical-case-with-enumerize-rails-gem-b5496c2912ac) 
 - [Scraping a website with Elixir](https://lord.io/blog/2015/elixir-scraping/)
+- [GenStage for continuous job processing](https://labs.uswitch.com/genstage-for-continuous-job-processing/)
+- [https://medium.com/@lasseebert/subscribe-to-messages-with-pattern-matching-8723f5121135](https://medium.com/@lasseebert/subscribe-to-messages-with-pattern-matching-8723f5121135)
 
 
 
