@@ -63,6 +63,7 @@
 - [GenStage for continuous job processing](https://labs.uswitch.com/genstage-for-continuous-job-processing/)
 - [Subscribe to messages with pattern matching](https://medium.com/@lasseebert/subscribe-to-messages-with-pattern-matching-8723f5121135)
 - [Using Elixir's GenStage and Flow to build product recommendations](https://10consulting.com/2017/01/20/building-product-recommendations-using-elixir-gen-stage-flow/)
+- [How to use Elixir’s GenStage.Flow for image resizing](https://medium.com/carwow-product-engineering/how-to-use-elixirs-genstage-flow-for-image-resizing-ec3f7343f641) 
 
 
 
